@@ -1,5 +1,5 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+# url: https://y7kim.github.io
+# baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Afripharm Trade
@@ -9,9 +9,9 @@ description: "Ghana import of pharmaceuticals sourced directly from India's lead
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Nischal Bachu
   pic: 1
-  position: Lead Designer
+  position: Chief Executive Officer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Prem Bachu
   pic: 2
-  position: Lead Marketer
+  position: Chief Operations Officer
   social:
     - title: twitter
       url: #
@@ -31,13 +31,13 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Kendrick Lincoln
   pic: 3
-  position: Lead Developer
+  position: Ghana Country Head2
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: facebook2
       url: #
     - title: google-plus
       url: #
