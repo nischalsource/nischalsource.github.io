@@ -2,9 +2,9 @@
 # baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Afripharm Trade
+title: Afripharma
 email: your-email@domain.com
-description: "Ghana import of pharmaceuticals sourced directly from India's leading manufacturer"
+description: "Ghana import of pharmaceuticals sourced directly from India's leading manufacturers"
 
 
 # Team names, titles and social links
@@ -33,7 +33,7 @@ people:
 
 - name: Kendrick Lincoln
   pic: 3
-  position: Ghana Country Head2
+  position: Ghana Country Head
   social:
     - title: twitter
       url: #
