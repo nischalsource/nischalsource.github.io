@@ -10,6 +10,7 @@ collections_dir: collections
 
 collections:
   - regions
+  - previouscompanies  
 
 # Team names, titles and social links
 people:
