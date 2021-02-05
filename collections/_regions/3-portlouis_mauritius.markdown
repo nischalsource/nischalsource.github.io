@@ -1,11 +1,10 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Port Louis
+subtitle: Mauritius
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+modal-id: 3
+img: portlouis_mauritius.jpg
+thumbnail: portlouis_mauritius_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

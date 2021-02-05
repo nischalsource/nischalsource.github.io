@@ -1,11 +1,10 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Shenzen
+subtitle: China
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+modal-id: 4
+img: shenzen_china.jpg
+thumbnail: shenzen_china_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

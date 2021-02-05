@@ -1,11 +1,10 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Johannesburg
+subtitle: South Africa
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: johannesburg_southafrica.jpg
+thumbnail: johannesburg_southafrica_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

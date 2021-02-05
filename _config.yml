@@ -6,6 +6,10 @@ title: Afripharma
 email: your-email@domain.com
 description: "Ghana import of pharmaceuticals sourced directly from India's leading manufacturers"
 
+collections_dir: collections
+
+collections:
+  - regions
 
 # Team names, titles and social links
 people:

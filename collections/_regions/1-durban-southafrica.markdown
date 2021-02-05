@@ -1,11 +1,10 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Durban
+subtitle: South Africa
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+modal-id: 1
+img: durban_southafrica.jpg
+thumbnail: durban_southafrica_thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
