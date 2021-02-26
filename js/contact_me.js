@@ -20,6 +20,7 @@ $(function() {
             $.ajax({
                 url: "https://formspree.io/f/mjvpdnlz",
                 type: "POST",
+                dataType: "json",
                 data: {
                     name: name,
                     phone: phone,
@@ -40,7 +41,13 @@ $(function() {
                     //clear all fields
                     $('#contactForm').trigger("reset");
                 },
-                error: function() {
+                error: function(jqXHR, textStatus, errorThrown) {
+
+                    console.log(jqXHR);
+                    console.log(textStatus);
+                    console.log(errorThrown);
+
+
                     // Fail message
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
